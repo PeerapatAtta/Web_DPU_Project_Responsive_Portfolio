@@ -125,7 +125,7 @@ a:hover {
 
 .menu-links.open {
   height: inherit;
-  max-height: 250px;
+  max-height: 300px;
 }
 
 .hamburger-icon.open span:first-child {

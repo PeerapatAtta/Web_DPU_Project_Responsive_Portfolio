@@ -1,3 +1,4 @@
+/* Desktop 13" and above */
 @media screen and (min-width: 1201px) {
   #profile {
     height: 83vh;
@@ -11,7 +12,7 @@
     height: fit-content;
   }
 }
-
+/* Tablet 8-11 inch*/
 @media screen and (max-width: 1200px) {
   #desktop-nav {
     display: none;
@@ -45,8 +46,9 @@
   .about-containers {
     margin-top: 0;
   }
-}
 
+}
+/* Mobile 5-7 inch*/
 @media screen and (max-width: 600px) {
   #contact,
   footer {
